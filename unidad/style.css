@@ -1,0 +1,19 @@
+html{
+    font-size: 65%;
+}
+
+
+.primera{
+
+    width: 300px;
+    height: 200px;
+    background: plum;
+}
+p{
+    font-size: 2rem;
+}
+.segunda{
+    background: green;
+    width: 100vw;
+    height: 400px;
+}

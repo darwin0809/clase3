@@ -1,0 +1,29 @@
+div{
+    background: yellow;
+}
+div :nth-child(1){
+    background: green;
+}
+
+div :nth-child(3){
+    background: rgb(126, 34, 247);
+}
+
+
+@media(min-width: 500px){
+    div{
+        background: rgb(70, 70, 7);
+        color: aliceblue;
+    }
+    div :nth-child(1){
+        background: rgb(12, 250, 159);
+        color: black;
+    }
+    
+    div :nth-child(3){
+        background: rgb(155, 39, 64);
+        color: beige;
+    }
+
+    
+}
