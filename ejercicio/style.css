@@ -27,3 +27,20 @@ div :nth-child(3){
 
     
 }
+@media(min-width: 1000px){
+    div{
+        background: rgb(35, 243, 16);
+        color: aliceblue;
+    }
+    div :nth-child(1){
+        background: rgb(0, 0, 0);
+        color: rgb(252, 252, 252);
+    }
+    
+    div :nth-child(3){
+        background: rgb(44, 0, 241);
+        color: beige;
+    }
+
+    
+}
