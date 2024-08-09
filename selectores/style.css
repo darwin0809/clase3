@@ -1,0 +1,19 @@
+p::before{
+    content: "🤥 ";
+}
+
+p::after{
+    content: "  🤥";
+}
+::placeholder{
+    color: greenyellow ;
+}
+p:hover{
+    color: brown;
+}
+div p:nth-child(2){
+    color: chartreuse;
+}
+div p:nth-child(2):hover{
+    color: black;
+}

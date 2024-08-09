@@ -1,0 +1,12 @@
+.uaoclass{
+    background: red;
+    color: aqua;
+}
+
+#uaoid{
+    background: orange;
+}
+a[href="https:///www.uaovirtual.edu.co"]{
+    color: aquamarine;
+ text-decoration: none;
+}
